@@ -1,0 +1,2 @@
+ReallyUsefulRobot/ROS/rur:ReallyUsefulRobot/ROS/rur_description:ReallyUsefulRobot/ROS/rur_detailed_description:ReallyUsefulRobot/ROS/rur_gazebo:ReallyUsefulRobot/ROS/rur_navigation:rover_description
+-DCATKIN_DEVEL_PREFIX=/home/jetson/rover_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jetson/rover_ws/install -G Unix Makefiles
